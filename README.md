@@ -1,7 +1,7 @@
-# 📄 PageSkim (Prototype)
+# 📄 PageSkim (Version 1.1)
 
-### ⚠ This app is not available yet.  
-This is an ongoing prototype project, no features have been added at this stage. I’m currently studying and implementing core components. The first version will be released soon.
+### ⚙ Basic Introduction 
+This is an ongoing project, all features have been added at this stage except ai genaration text. (will release in Version 2.1)
 
 ---
 
@@ -11,12 +11,11 @@ PageSkim is a lightweight Android app designed to capture text from images, extr
 
 ---
 
-### 🚀 Planned Features
+### 🚀 All Features
 
 - 📸 Capture images using the device camera  
 - 🔍 Extract text (OCR) using Google ML Kit  
 - ✂ Auto-clean & format the extracted text  
-- 🧠 Generate summaries using an offline Kotlin-based summarizer  
 - 📋 Copy output with one tap  
 - 🪶 Simple UI, fast performance  
 - 🔒 Fully offline, no server required
