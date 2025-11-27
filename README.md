@@ -8,6 +8,9 @@ This is an ongoing project, all features have been added at this stage except ai
 ### 🔧 How to use PageSkim
 
 ### Install
+## Click to Download 👇👇
+[Download PageSkim v1.1 APK](https://github.com/actualakib/pageskim/releases/download/v1.1/PageSkim.apk)
+## or 
 - **From Releases**: Download the latest `PageSkim.apk` from the **Releases** tab on this repo and install on your Android device (you may need to allow "Install from unknown sources").
 - **From source**:
   1. Clone the repo: `git clone https://github.com/actualakib/pageskim.git`
