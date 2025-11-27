@@ -5,13 +5,13 @@ plugins {
 android {
     namespace = "com.example.pageskim"
     compileSdk {
-        version = release(36)
+        version = release(35)
     }
 
     defaultConfig {
         applicationId = "com.example.pageskim"
         minSdk = 24
-        targetSdk = 36
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
@@ -34,6 +34,9 @@ android {
 }
 
 dependencies {
+    implementation("com.google.android.gms:play-services-vision:19.0.0")
+    implementation("com.vanniktech:android-image-cropper:4.5.0")
+    implementation(libs.cardview)
     implementation(libs.appcompat)
     implementation(libs.material)
     implementation(libs.activity)
