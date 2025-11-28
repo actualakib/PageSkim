@@ -17,7 +17,7 @@ This is an ongoing project, all features have been added at this stage except ai
   2. Open the project in Android Studio.
   3. Click **File → Sync Project with Gradle Files**, then **Build → Run 'app'** on a connected device or emulator.
 
-> Pro tip: to install an APK from your computer via USB: `adb install path/to/pageskim-1.1.apk`.
+> Pro tip: to install an APK from your computer via USB: `adb install path/to/PageSkim.apk`.
 
 ### Permissions
 When you run the app the first time it will request **Camera** permission. Please allow it — the app needs camera access to capture photos for OCR.
